@@ -11,8 +11,8 @@ First, clone or download this project to your local machine.
    ```
 
 ### Step 2: Set Up the Backend (Express & MySQL)
-# -Make sure MySQL service is running before proceeding. You can use XAMPP, MAMP, or MySQL Workbench to start the MySQL service.
-# Note: The trigger creation queries were tested with XAMPP and phpMyAdmin,
+### -Make sure MySQL service is running before proceeding. You can use XAMPP, MAMP, or MySQL Workbench to start the MySQL service.
+### Note: The trigger creation queries were tested with XAMPP and phpMyAdmin,
 
 1. **Navigate to the `backend` directory**:
 
@@ -115,11 +115,7 @@ INSERT INTO time_slots (slot_datetime) VALUES
 
 ### Step 3: Set Up the Frontend (React)
 
-1. **Navigate to the `frontend` directory**:
-
-   ```bash
-   cd ../frontend
-   ```
+1. **Navigate to the `vite-project` directory**:
 
 2. **Install the frontend dependencies**:
 
