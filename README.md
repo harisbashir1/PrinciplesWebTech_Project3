@@ -6,9 +6,10 @@ Follow these steps to clone and run this project on your local machine.
 
 First, clone or download this project to your local machine.
 
-   ```bash
-   git clone https://github.com/harisbashir1/PrinciplesWebTech_Project3.git
-   ```
+   -https://github.com/harisbashir1/PrinciplesWebTech_Project3.git
+
+   -git@github.com:harisbashir1/PrinciplesWebTech_Project3.git
+
 
 ### Step 2: Set Up the Backend (Express & MySQL)
 ### -Make sure MySQL service is running before proceeding. You can use XAMPP, MAMP, or MySQL Workbench to start the MySQL service.
