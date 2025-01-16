@@ -6,9 +6,10 @@ Follow these steps to clone and run this project on your local machine.
 
 First, clone or download this project to your local machine.
 
-   -https://github.com/harisbashir1/PrinciplesWebTech_Project3.git
 
-   -git@github.com:harisbashir1/PrinciplesWebTech_Project3.git
+   https://github.com/harisbashir1/PrinciplesWebTech_Project3.git
+
+   git@github.com:harisbashir1/PrinciplesWebTech_Project3.git
 
 
 ### Step 2: Set Up the Backend (Express & MySQL)
@@ -116,7 +117,7 @@ INSERT INTO time_slots (slot_datetime) VALUES
 
 ### Step 3: Set Up the Frontend (React)
 
-1. **Navigate to the `vite-project` directory**:
+1. **In another terminal Navigate to the `vite-project` directory**:
 
 2. **Install the frontend dependencies**:
 
