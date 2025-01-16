@@ -106,7 +106,7 @@ INSERT INTO time_slots (slot_datetime) VALUES
 ```
 
 
-4. **Start the backend server**:
+4. **Start the backend server (ensuring you are still in backend directory)**:
 
    ```bash
    npm start
