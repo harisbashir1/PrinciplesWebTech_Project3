@@ -4,8 +4,9 @@ import { Link } from 'react-router-dom';
 
 const StudentRegistration = () => {
 
-//store errors in state variable to display when validating the form
+//store errors in state variable to display if form validation fails
 const [errors, setErrors] = useState({});
+
 const validationPatterns = {
   name: /^[A-Za-z]+$/, //One or more characters (only letters)
   userId: /^\d{8}$/, //exactly an 8 digit number
