@@ -1,3 +1,8 @@
+## 
+Frontend Available at http://3.147.75.203/
+
+Hosted via an ec2 instance
+
 ## How to Run the Project
 
 Follow these steps to clone and run this project on your local machine.
